@@ -1,7 +1,7 @@
 # PetLink 🐾  
 **A Tunisian Pet Adoption Platform**
 
-Find and adopt pets from across Tunisia — built with PHP, MySQL, and vanilla JavaScript.
+Find and adopt pets from across Tunisia — built with PHP, MySQL, and JavaScript.
 
 🔗 **Live Demo**: [http://petlink.free.nf]
 
