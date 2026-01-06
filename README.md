@@ -1,0 +1,27 @@
+# PetLink 🐾  
+**A Tunisian Pet Adoption Platform**
+
+Find and adopt pets from across Tunisia — built with PHP, MySQL, and vanilla JavaScript.
+
+🔗 **Live Demo**: [http://petlink.free.nf]
+
+## Features
+- Browse adoptable pets (cats, dogs, rabbits, birds, and more)
+- Real-time filtering by animal type
+- Detailed pet profiles (age, breed, location, bio)
+- "Interested" button for adoption inquiries
+
+## Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript (vanilla)
+- **Backend**: PHP 8
+- **Database**: MySQL
+- **Hosting**: InfinityFree (free tier)
+
+## Local Setup
+1. Import `petlink.sql` into your MySQL database
+2. Rename `config.example.php` → `config.php`
+3. Update `config.php` with your local DB credentials
+4. Serve via XAMPP, WAMP, or any PHP server
+5. Visit `http://localhost/petlink`
+
+> 🔒 **Security Note**: Never commit `config.php` to version control.
