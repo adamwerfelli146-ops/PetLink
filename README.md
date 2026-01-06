@@ -24,3 +24,5 @@ Find and adopt pets from across Tunisia — built with PHP, MySQL, and JavaScrip
 4. Serve via XAMPP, WAMP, or any PHP server
 5. Visit `http://localhost/petlink`
 
+>  PetLink — Because every pet deserves a home. 🐶❤️🏠
+
