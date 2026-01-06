@@ -9,7 +9,7 @@ Find and adopt pets from across Tunisia — built with PHP, MySQL, and JavaScrip
 - Browse adoptable pets (cats, dogs, rabbits, birds, and more)
 - Real-time filtering by animal type
 - Detailed pet profiles (age, breed, location, bio)
-- "Interested" button to submit an adoption inquiry — when clicked, a form collects the user’s name, email, and phone number, then stores the request in the database linked to the selected pet.
+- "Interested" button to submit an adoption inquiry — when clicked, a form collects the user’s name, email, and phone number.
 
 ## Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (vanilla)
